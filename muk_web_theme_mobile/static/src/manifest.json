@@ -1,0 +1,22 @@
+{
+    "name": "MuK",
+    "short_name" : "MuK",
+    "start_url": "/web",
+    "theme_color": "#212529",
+    "background_color": "#243742",
+    "gcm_sender_id": "103953800507",
+    "display": "standalone",
+    "scope" : "/",
+    "icons": [
+        {
+            "src": "/mobile-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/mobile-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

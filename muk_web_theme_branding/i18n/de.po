@@ -1,0 +1,229 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* muk_web_theme_branding
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0-20190522\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-02 18:23+0000\n"
+"PO-Revision-Date: 2019-07-02 18:23+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"input-group-text\">px</span>"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Backend Font</span>"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Background Image</span>\n"
+"                            <span class=\"fa fa-lg fa-building-o\" title=\"Values set here are company-specific.\" aria-label=\"Values set here are company-specific.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+msgstr "<span class=\"o_form_label\">Hintergrundbild</span>\n"
+"                            <span class=\"fa fa-lg fa-building-o\" title=\"Die hier eingestellten Werte sind unternehmensspezifisch.\" aria-label=\"Die hier eingestellten Werte sind unternehmensspezifisch.\" groups=\"base.group_multi_company\" role=\"img\"/>"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Default Preferences</span>"
+msgstr "<span class=\"o_form_label\">Default-Einstellungen</span>"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Font Spacing</span>"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Menu Colors</span>"
+msgstr "<span class=\"o_form_label\">Menüfarben</span>"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "<span class=\"o_form_label\">Theme Colors</span>"
+msgstr "<span class=\"o_form_label\">Themenfarben</span>"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Apps Blend"
+msgstr "Apps Mischung"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Apps Color"
+msgstr "Apps Farbe"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Backend Theme"
+msgstr "Backendmotiv"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Background"
+msgstr "Hintergrund"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Base Height"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Brand"
+msgstr "Markenzeichen"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Chatter"
+msgstr "Klappern"
+
+#. module: muk_web_theme_branding
+#: model:ir.model,name:muk_web_theme_branding.model_res_config_settings
+msgid "Config Settings"
+msgstr "Konfiguration "
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Exo"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Fira"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model:ir.model.fields,field_description:muk_web_theme_branding.field_res_config_settings__theme_branding_font
+msgid "Font"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Font Family"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model:ir.model.fields,field_description:muk_web_theme_branding.field_res_config_settings__theme_branding_font_root_size
+msgid "Font Root Size"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Font Size"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Fonts"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Label Factor"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model:ir.model.fields,field_description:muk_web_theme_branding.field_res_config_settings__theme_branding_label_size_factor
+msgid "Label Size Factor"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Lato"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model:ir.model.fields,field_description:muk_web_theme_branding.field_res_config_settings__theme_branding_line_base_height
+msgid "Line Base Height"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Menu Color"
+msgstr "Menüfarbe"
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Montserrat"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Poppins"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Primary"
+msgstr "Primär"
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Railway"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Required"
+msgstr "Erforderlich"
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Roboto"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the background image for the apps menu"
+msgstr "Setzt das Hintergrundbild für das App-Menü."
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the default theme preferences"
+msgstr "Legen Sie die Standardeinstellungen für das Design fest."
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the font family and size of the backend"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the font spacing of the backend"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the main menu colors"
+msgstr "Einstellen der Farben des Hauptmenüs"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Set the main theme colors"
+msgstr "Legen Sie die Farben des Hauptthemas fest"
+
+#. module: muk_web_theme_branding
+#: model_terms:ir.ui.view,arch_db:muk_web_theme_branding.res_config_settings_view_form_branding
+msgid "Sidebar"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Taviraj"
+msgstr ""
+
+#. module: muk_web_theme_branding
+#: selection:res.config.settings,theme_branding_font:0
+msgid "Trirong"
+msgstr ""
+
